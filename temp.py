@@ -26,6 +26,7 @@ while (count < 9):
    print ('The count is:'), count
    count = count + 1
 
-print ("Good bye!")
-print("more changes here")
+print ("Good day sir!")
+
+print("revision one")
 
