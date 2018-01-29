@@ -20,11 +20,8 @@ coolBeans['Company'] = 'Ricos Tacos Inc'
 
 #pedro does not find it funny
 print("this is just a random revision")
-<<<<<<< HEAD
 print(coolBeans['Director'])
-=======
 print("this is another cahnge")
 print(coolBeans)
 print("more changes pls")
 
->>>>>>> ben_branch
