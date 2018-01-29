@@ -6,7 +6,6 @@ Created on Sun Jan 28 15:51:10 2018
 """
 
 
-print("this is just a randnom test")
 print()
 
 coolBeans = {'Director': 'pedro',
@@ -21,5 +20,4 @@ coolBeans['Company'] = 'Ricos Tacos Inc'
 
 #pedro does not find it funny
 print("this is just a random revision")
-print(coolBeans)
-
+print(coolBeans['Director'])
