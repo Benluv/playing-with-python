@@ -20,8 +20,6 @@ name_and_department = (str(coolBeans['Director']) + ' works in the '
 coolBeans['Company'] = 'Ricos Tacos Inc'
 
 #pedro does not find it funny
-del(coolBeans['Nickname'])
 print("this is just a random revision")
-print("this is another cahnge")
 print(coolBeans)
 
